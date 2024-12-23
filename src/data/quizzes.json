@@ -1,0 +1,48 @@
+[
+    {
+      "name": "Data Structures Basics",
+      "difficulty": "Easy",
+      "numberOfQuestions": 3,
+      "description": "A beginner-level quiz on data structures.",
+      "questions": [
+        {
+          "questionText": "What is the time complexity of binary search?",
+          "type": "multiple_choice",
+          "options": ["O(n)", "O(log n)", "O(1)", "O(n^2)"],
+          "correctAnswers": [1]
+        },
+        {
+          "questionText": "Which data structure is used in a LIFO manner?",
+          "type": "multiple_choice",
+          "options": ["Queue", "Stack", "Array", "Tree"],
+          "correctAnswers": [1]
+        },
+        {
+          "questionText": "How many child nodes can a binary tree node have?",
+          "type": "numerical_input",
+          "correctAnswers": [2]
+        }
+      ]
+    },
+    {
+      "name": "Advanced Algorithms",
+      "difficulty": "Hard",
+      "numberOfQuestions": 2,
+      "description": "A challenging quiz on algorithms.",
+      "questions": [
+        {
+          "questionText": "Which algorithm is used for shortest path in a graph?",
+          "type": "multiple_choice",
+          "options": ["Dijkstra", "Merge Sort", "Quick Sort", "Bellman-Ford"],
+          "correctAnswers": [0, 3]
+        },
+        {
+          "questionText": "What is the time complexity of bubble sort?",
+          "type": "multiple_choice",
+          "options": ["O(n)", "O(log n)", "O(n^2)", "O(n log n)"],
+          "correctAnswers": [2]
+        }
+      ]
+    }
+  ]
+  
